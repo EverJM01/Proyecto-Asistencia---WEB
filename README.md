@@ -1,6 +1,6 @@
 # Proyecto-Asistencia---WEB
 
-#Capturas
+# Capturas
 
 ![01](https://user-images.githubusercontent.com/119747746/205450130-10520c44-5ee5-4e93-af05-7d7e65493599.png)
 ![05](https://user-images.githubusercontent.com/119747746/205450131-fab26b53-ad32-4e00-b6a6-a670119e135c.png)
