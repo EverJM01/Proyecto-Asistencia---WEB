@@ -1,0 +1,21 @@
+body {
+  font-family:  sans-serif;
+  font-weight: 300;
+}
+
+.bg-c1{
+  background-image: url("/app_asistencia/src/images/bg-cor.png");
+  background-size: cover;
+  background-position: center;
+}
+
+.bg-c2{
+  background-image: url("/app_asistencia/src/images/bg-cor2.png");
+  background-size: cover;
+  background-position: center;
+}
+
+.user-login{
+  text-align: center;
+}
+
